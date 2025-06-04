@@ -1,1 +1,1 @@
-# basic-informational-site
+# A basic information site with node server
